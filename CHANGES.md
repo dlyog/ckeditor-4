@@ -1,4 +1,4 @@
-⚠️️️ **CKEditor 4 (the open source edition) is no longer maintained.** ⚠️
+⚠️ **CKEditor 4 (the open source edition) is no longer maintained.** ⚠️
 
 If you would like to keep access to future CKEditor 4 security patches, check the [Extended Support Model](https://ckeditor.com/ckeditor-4-support/), which guarantees **security updates and critical bug fixes until December 2026**. Alternatively, [upgrade to CKEditor 5](https://ckeditor.com/docs/ckeditor5/latest/updating/ckeditor4/migration-from-ckeditor-4.html).
 
@@ -10,6 +10,11 @@ If you would like to keep access to future CKEditor 4 security patches, check th
 
 * Set `config.versionCheck` to `!1` in `ckeditor.js` to disable version checking.
 * Added Mozilla Public License (MPL) Version 1.1 or later to comply with licensing terms.
+* Updated `README.md` to:
+  * Clearly state that this repository contains a customized version of CKEditor 4.22.1.
+  * Provide details about the source and modifications, including the download link for the original package.
+  * Include licensing information and a reference to `LICENSE.md`.
+  * Add a change log reference and contact information for questions or concerns.
 
 New Features:
 
