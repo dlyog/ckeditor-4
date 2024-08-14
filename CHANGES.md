@@ -15,6 +15,8 @@ If you would like to keep access to future CKEditor 4 security patches, check th
   * Provide details about the source and modifications, including the download link for the original package.
   * Include licensing information and a reference to `LICENSE.md`.
   * Add a change log reference and contact information for questions or concerns.
+* Added `legal.txt` to explicitly declare the chosen MPL license and provide source and contact information.
+
 
 New Features:
 
