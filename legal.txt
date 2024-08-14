@@ -1,3 +1,5 @@
 ## License Declaration
 
-This modified version of CKEditor 4.22.1 is licensed under the Mozilla Public License Version 1.1 or later.
+This modified version of CKEditor 4.22.1 was downloaded from [CKEditor 4.22.1 Full Package](https://download.cksource.com/CKEditor/CKEditor/CKEditor%204.22.1/ckeditor_4.22.1_full.zip). As advised in LICENSE.md, we explicitly declare here that we have chosen the MPL license, following the same original terms mentioned in LICENSE.md.
+
+For any questions or concerns regarding this choice or the changes made, please contact info@dlyog.com.
