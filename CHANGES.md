@@ -6,6 +6,10 @@ If you would like to keep access to future CKEditor 4 security patches, check th
 
 ⚠️ This is the last open source release of CKEditor 4. As announced in 2018, CKEditor 4 has reached its End of Life in June 2023.
 
+### Custom Modifications
+
+* Set `config.versionCheck` to `!1` in `ckeditor.js` to disable version checking.
+* Added Mozilla Public License (MPL) Version 1.1 or later to comply with licensing terms.
 
 New Features:
 
